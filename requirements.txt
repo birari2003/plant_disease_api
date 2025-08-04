@@ -3,4 +3,4 @@ gunicorn
 flask-cors
 tensorflow
 numpy
-opencv-python
+opencv-python-headless
